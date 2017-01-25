@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Some Awesome Product",
+    "description": "This product is awesome!",
+    "shine": 8,
+    "price": 110.50,
+    "rarity": 7,
+    "color": "#CCC",
+    "faces": 14,
+    "images": [
+      "images/gem-02.jpg",
+      "images/gem-05.jpg",
+      "images/gem-09.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Some Other Awesome Product",
+    "description": "This product is ALSO awesome!",
+    "shine": 9,
+    "price": 22.90,
+    "rarity": 6,
+    "color": "#EEE",
+    "faces": 12,
+    "images": [
+      "images/gem-01.jpg",
+      "images/gem-03.jpg",
+      "images/gem-04.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Filled with Awesome",
+    "description": "This product is soooo Awesome!",
+    "shine": 70,
+    "price": 1100,
+    "rarity": 2,
+    "color": "#000",
+    "faces": 6,
+    "images": [
+      "images/gem-06.jpg",
+      "images/gem-07.jpg",
+      "images/gem-08.jpg"
+    ],
+    "reviews": []
+  }
+]
